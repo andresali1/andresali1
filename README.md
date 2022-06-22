@@ -1,7 +1,8 @@
 ### Hola soy Andrés Salinas 👋
 
-- 🌱 Estoy actualmente estudiando una tecnología en Desarrollo de Software y aplicativos móviles, además formo parte del programa Protalento donde me desempeño como desarrollador Web FullStack.
-- ⚡ Soy psicólogo de profesión pero he descubierto la programación como una pasión, considero que mis estudios previos me permiten tener conocimiento y mejor manejo de habilidades blandas que son igualmente necesarias en todos los contextos.
+- 🌱 Estoy actualmente estudiando una tecnología en Desarrollo de Software y aplicativos móviles
+- 😄 Tengo 8 meses de experiencia como desarrollador Web FullStack.
+- ⚡ He descubierto la programación como una pasión, me gusta programar en NodeJs
 <!--
 **andresali1/andresali1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
