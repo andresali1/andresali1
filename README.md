@@ -1,5 +1,6 @@
 <h1 align="center">Hi mi name is Andrés Felipe Salinas Martínez</h1>
 <h3 align="center">I´m a Full Stack Developer from Colombia, I really</h3>
+:bowtie: hi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
