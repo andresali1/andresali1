@@ -4,7 +4,7 @@
 <h3 align="left">About me:</h3>
 <div>
  * :desktop_computer:
- <div>
+ <div style="display: grid">
   I'm a Software Develpment Technologyst from the [@PolitecnicoInternacional](https://www.politecnicointernacional.edu.co/sw/es/home)
  </div>
  <div>
