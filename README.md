@@ -5,14 +5,18 @@
 <div style="display: flex;">
   * :desktop_computer: I'm a Software Develpment Technologyst from the [@Politecnico Internacional](https://www.politecnicointernacional.edu.co/sw/es/home) and also studied in [@DigitalHouse](https://www.digitalhouse.com/ar/?addresseeId=1076130511)  
 </div>
-* :desktop_computer: I'm a Software Develpment Technologyst from the [@Politecnico Internacional](https://www.politecnicointernacional.edu.co/sw/es/home) and also studied in [@DigitalHouse](https://www.digitalhouse.com/ar/?addresseeId=1076130511)  
-* :keyboard: I’m currently working as a full stack .net developer  
-<br />
-* :compass: I'm  really interested in become a fullstack developer.  
-<br />
-* :world_map: I like to travel and discover new places.  
-<br />
-* :bicyclist: I enjoy riding my bike  
+<div style="display: flex;">
+ * :keyboard: I’m currently working as a full stack .net developer  
+</div>
+<div style="display: flex;">
+ * :compass: I'm  really interested in become a fullstack developer.  
+</div>
+<div style="display: flex;">
+ * :world_map: I like to travel and discover new places.  
+</div>
+<div style="display: flex;">
+ * :bicyclist: I enjoy riding my bike  
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
