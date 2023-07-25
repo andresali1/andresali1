@@ -4,10 +4,10 @@
 <h3 align="left">About me:</h3>
 <div>
  * :desktop_computer:
- <div style="display: grid">
+ <div style="display: grid; margin-left: 5px;">
   I'm a Software Develpment Technologyst from the [@PolitecnicoInternacional](https://www.politecnicointernacional.edu.co/sw/es/home)
  </div>
- <div>
+ <div style="display: grid; margin-left: 5px;">
   I also studied in [@DigitalHouse](https://www.digitalhouse.com/ar/?addresseeId=1076130511)  
  </div>
 </div>
