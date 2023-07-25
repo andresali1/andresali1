@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 <div style="display: flex;">
-  * :desktop_computer: I'm a Software Develpment Technologyst from the [@Politecnico Internacional](https://www.politecnicointernacional.edu.co/sw/es/home) and also studied in [@DigitalHouse](https://www.digitalhouse.com/ar/?addresseeId=1076130511)  
+  * :desktop_computer: I'm a Software Develpment Technologyst from the [@PolitecnicoInternacional](https://www.politecnicointernacional.edu.co/sw/es/home) and also studied in [@DigitalHouse](https://www.digitalhouse.com/ar/?addresseeId=1076130511)  
 </div>
 <div style="display: flex;">
  * :keyboard: I’m currently working as a full stack .net developer  
