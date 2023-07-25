@@ -1,7 +1,6 @@
 <h1 align="center">Hi mi name is Andrés Felipe Salinas Martínez</h1>
 <h3 align="center">I´m a Full Stack Developer from Colombia, I like programming very much, I enjoy learning new things, like new technologies, new programming languages, frameworks, etc.</h3>
 
-<br/>
 <h3 align="left">About Me:</h3>  
 * :desktop_computer: I'm a Software Develpment Technologyst from the [@Politecnico Internacional](https://www.politecnicointernacional.edu.co/sw/es/home) and also studied in [@DigitalHouse](https://www.digitalhouse.com/ar/?addresseeId=1076130511)  
 * :keyboard: I’m currently working as a full stack .net developer  
@@ -9,7 +8,6 @@
 * :world_map: I like to travel and discover new places.  
 * :bicyclist: I enjoy riding my bike  
 
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andres-felipe-salinas-martinez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andres-felipe-salinas-martinez/" height="30" width="40" /></a>
