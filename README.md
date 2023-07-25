@@ -2,19 +2,25 @@
 <h3 align="center">I´m a Full Stack Developer from Colombia, I like programming very much, I enjoy learning new things, like new technologies, new programming languages, frameworks, etc.</h3>
 
 <h3 align="left">About me:</h3>
-<div style="display: flex;">
-  * :desktop_computer: I'm a Software Develpment Technologyst from the [@PolitecnicoInternacional](https://www.politecnicointernacional.edu.co/sw/es/home) and also studied in [@DigitalHouse](https://www.digitalhouse.com/ar/?addresseeId=1076130511)  
+<div>
+ * :desktop_computer:
+ <div>
+  I'm a Software Develpment Technologyst from the [@PolitecnicoInternacional](https://www.politecnicointernacional.edu.co/sw/es/home)
+ </div>
+ <div>
+  I also studied in [@DigitalHouse](https://www.digitalhouse.com/ar/?addresseeId=1076130511)  
+ </div>
 </div>
-<div style="display: flex;">
+<div>
  * :keyboard: I’m currently working as a full stack .net developer  
 </div>
-<div style="display: flex;">
+<div>
  * :compass: I'm  really interested in become a fullstack developer.  
 </div>
-<div style="display: flex;">
+<div>
  * :world_map: I like to travel and discover new places.  
 </div>
-<div style="display: flex;">
+<div>
  * :bicyclist: I enjoy riding my bike  
 </div>
 
