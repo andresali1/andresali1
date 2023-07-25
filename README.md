@@ -6,7 +6,9 @@
 * :keyboard: I’m currently working as a full stack .net developer  
 <br />
 * :compass: I'm  really interested in become a fullstack developer.  
+<br />
 * :world_map: I like to travel and discover new places.  
+<br />
 * :bicyclist: I enjoy riding my bike  
 
 <h3 align="left">Connect with me:</h3>
