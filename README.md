@@ -1,7 +1,7 @@
 <h1 align="center">Hi mi name is Andrés Felipe Salinas Martínez</h1>
 <h3 align="center">I´m a Full Stack Developer from Colombia, I like programming very much, I enjoy learning new things, like new technologies, new programming languages, frameworks, etc.</h3>
 
-##About Me:
+<h3 align="left">About me:</h3>
 <div style="display: flex;">
   * :desktop_computer: I'm a Software Develpment Technologyst from the [@Politecnico Internacional](https://www.politecnicointernacional.edu.co/sw/es/home) and also studied in [@DigitalHouse](https://www.digitalhouse.com/ar/?addresseeId=1076130511)  
 </div>
